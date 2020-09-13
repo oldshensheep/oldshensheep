@@ -1,16 +1,26 @@
 ### Hi there 👋
+I love coding, especially in mind.  
+I love the **Internet**.  
+🎵I love **music**, especially **Vocaloid**.  
+🎵Here is my [last.fm](https://www.last.fm/zh/user/oldshensheep), Recording the music.  
+🎵Here is my  [NeteaseCloudMusic](https://music.163.com/#/user/home?id=319475460), Nobody knows me better than her.  
 
-<!--
-**oldshensheep/oldshensheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm Interested:
+  - Vocaloid Music (The beginning of loving music)
+  - Coding
+  - ???
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello World! (Sort by date):
+  - 易语言
+  - C
+  - C++
+    - Qt
+  - Python
+    - Spider
+  - Java
+    - Web
+    - Android
+  - C#
+    - Unity
+  - HTML CSS JavaScript
+    - Vue.js
