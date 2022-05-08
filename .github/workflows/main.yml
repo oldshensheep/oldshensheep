@@ -21,11 +21,12 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_sections:  languages-graphs, editors
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
       - name: Last.fm  - Recently listed
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.music.svg
           token: NOT_NEEDED
           base: ""
           plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
