@@ -1,4 +1,6 @@
 ### Hi there 👋
+[last.fm](https://www.last.fm/user/oldshensheep)
+
 ![last.fm](metrics.plugin.music.svg)
 ![wakatime.com](metrics.plugin.wakatime.svg)
 
